@@ -1,0 +1,24 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "PEC1 - primer contacto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauaunot/DFFJ-basics.git"
+  },
+  "author": "Mauricio Correa UrÍzar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauaunot/DFFJ-basics/issues"
+  },
+  "homepage": "https://github.com/mauaunot/DFFJ-basics#readme",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
+  }
+}
