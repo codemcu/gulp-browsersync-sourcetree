@@ -1,25 +1,28 @@
 {
   "name": "holamundo",
   "version": "1.0.0",
-  "description": "PEC1 - primer contacto",
+  "description": "gulp-browsersync-sourcetree",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauaunot/DFFJ-basics.git"
+    "url": "https://github.com/mauaunot/gulp-browsersync-sourcetree.git"
   },
   "author": "Mauricio Correa UrÍzar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mauaunot/DFFJ-basics/issues"
+    "url": "https://github.com/mauaunot/gulp-browsersync-sourcetree/issues"
   },
-  "homepage": "https://github.com/mauaunot/DFFJ-basics#readme",
+  "homepage": "https://github.com/mauaunot/gulp-browsersync-sourcetree#readme",
   "devDependencies": {
     "browser-sync": "^2.11.1",
     "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.2.0",
+    "gulp-uglify": "^1.5.3",
     "gulp-watch": "^4.3.5"
   }
 }
